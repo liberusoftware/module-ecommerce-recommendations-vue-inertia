@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-recommendations-vue-inertia",
+  "capabilityKey": "planned:ecommerce:recommendations",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-recommendations-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/recommendations.md",
+  "presentationPlan": "projects/ecommerce/vue/recommendations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
